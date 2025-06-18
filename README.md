@@ -151,8 +151,8 @@ See the [LICENSE](./LICENSE) file for details.
 
 For questions, suggestions, or collaboration:
 
-* GitHub: [@yourusername](https://github.com/yourusername)
-* Email: [youremail@example.com](mailto:youremail@example.com)
+* GitHub: [@SQUADRON-LEADER](https://github.com/SQUADRON-LEADER)
+* Email: [aayush05.af@gmail.com](mailto:aayush05.af@gmail.com)
 
 ---
 
