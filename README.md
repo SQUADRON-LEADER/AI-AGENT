@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/c6074ec8-b877-4c42-89e1-496c1ee266a8)
+
 
 # 🤖 AI Integration Detector (n8n - Gmail & Calendar)
 
