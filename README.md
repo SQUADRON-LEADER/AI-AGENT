@@ -89,6 +89,13 @@ Once set up, your AI agent can:
 
 ### 📜 Sample Output
 
+
+![image](https://github.com/user-attachments/assets/e8b59e63-5f49-4964-8703-79c10f78db7e)
+
+![image](https://github.com/user-attachments/assets/75478890-276d-4997-a7ef-a0c363daeb25)
+
+
+
 ```
 ✅ Gmail Integration: Active
 ✅ Calendar Integration: Active
